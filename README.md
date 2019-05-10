@@ -11,7 +11,7 @@ CollapsibleTableHeaderView is a Swift library to have collapsible section header
 
 ### Requirements
 
-* Xcode 10.0 or later
+* Xcode 10.2 or later
 * Swift 5.0 or later
 * iOS 12.0 or later
 
